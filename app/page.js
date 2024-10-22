@@ -45,8 +45,8 @@ function IndexPage() {
             <Card />
 
           </div><div className='col-sm-3 mt-4'>
-            <Card />
-
+            {/* <Card /> */}
+            
           </div>
         </div>
 
